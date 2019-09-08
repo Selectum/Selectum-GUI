@@ -1,2 +1,2 @@
-# Selectum GUI
+# Selectum-GUI Release
  
